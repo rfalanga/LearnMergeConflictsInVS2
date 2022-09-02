@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Committing changes from my second GitHub account
 Console.WriteLine("Hello, World!");
