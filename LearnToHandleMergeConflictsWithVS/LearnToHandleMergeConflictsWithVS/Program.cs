@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Committing from my first GitHub account. This should cause a conflict!
 Console.WriteLine("Hello, World!");
