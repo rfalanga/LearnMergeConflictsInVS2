@@ -7,5 +7,5 @@
 
 Console.WriteLine("Hello, World");  // I want to keep this change from the child branch
 
-int x = 5;
+int x = 5;  //ignore the fact that these two variables are unused
 int y = 10; 
