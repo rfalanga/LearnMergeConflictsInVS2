@@ -11,4 +11,4 @@ int x = 5;  //ignore the fact that these two variables are unused
 int y = 10;
 
 string aString = "Some other string";
-string bString = "yet another string";
+string bString = "Yet another string";
