@@ -9,3 +9,6 @@ Console.WriteLine("Hello, World");  // I want to keep this change from the child
 
 int x = 5;  //ignore the fact that these two variables are unused
 int y = 10; 
+
+string aString = "This is a string"; 
+string bString = "This is another string";
